@@ -1,0 +1,22 @@
+# General info
+User: b_stone, time: Sun Jul 17 18:57:21 2022
+
+# Temperature
+30.7C
+
+# Counters
+sec=5, Monitor=567016, bstop=181114, I0=580385, I1=0, ch5=0, ch6=0, ch7=0, ccd1=0, marccd=-1, Counter 20=0, Counter 21=0, Counter 22=0, Counter 23=0, Counter 24=0, Counter 25=0, Counter 26=0, Counter 27=0, Counter 28=0, Counter 29=0, Counter 30=0, Counter 31=0, Counter 32=0, Counter 33=0, Counter 34=0, Counter 35=0
+
+# Motors
+goniy=0, samplez=15, phi=-2.24719e-08, th=0, detx=22.75, dety=-126.2, detz=150.002, platz=1.8, b1v=-2.76503, t1v=3.425, l1h=4.7, r1h=-1.2, t2v=2.50375, l2h=-0.815, b2v=-2.40375, r2h=0.915, gshorz=-5.124, gsvert=6.093, stagey=81.2, stagex=51.2525, bsvert=-0.065125, bshorz=-0.025, samplex=0, sampley=-2.2418, bpm=2000, monbend=330, monslit=1.89179, monang=-119, m0pitch=4.24658, m0vert=1.3622, m0bend=19.469, m39=189.405, tablev1=-10.08, tablev2=10.0742, thor=2.45186, tableya=1.2001, t3v=-11.725, b3v=-17.41, l3h=-16.78, r3h=-4.55, h1gap=3.5, h1tran=-2.95, v1gap=0.66, v1tran=3.095, h2gap=0.1, h2tran=0.865, v2gap=0.1, v2tran=2.4538, table=-0.0029, tablep=0.01167, kmotV=0, kmotI=0, tempset=-1
+# General info
+User: b_stone, time: Sun Jul 17 18:57:58 2022
+
+# Temperature
+30.7C
+
+# Counters
+sec=8, Monitor=908072, bstop=290411, I0=929083, I1=0, ch5=0, ch6=0, ch7=0, ccd1=0, marccd=-1, Counter 20=0, Counter 21=0, Counter 22=0, Counter 23=0, Counter 24=0, Counter 25=0, Counter 26=0, Counter 27=0, Counter 28=0, Counter 29=0, Counter 30=0, Counter 31=0, Counter 32=0, Counter 33=0, Counter 34=0, Counter 35=0
+
+# Motors
+goniy=0, samplez=15, phi=-2.24719e-08, th=0, detx=22.75, dety=-126.2, detz=150.002, platz=1.8, b1v=-2.76503, t1v=3.425, l1h=4.7, r1h=-1.2, t2v=2.50375, l2h=-0.815, b2v=-2.40375, r2h=0.915, gshorz=-5.124, gsvert=6.093, stagey=81.2, stagex=51.2525, bsvert=-0.065125, bshorz=-0.025, samplex=0, sampley=-2.2418, bpm=2000, monbend=330, monslit=1.89179, monang=-119, m0pitch=4.24658, m0vert=1.3622, m0bend=19.469, m39=189.405, tablev1=-10.08, tablev2=10.0742, thor=2.45186, tableya=1.2001, t3v=-11.725, b3v=-17.41, l3h=-16.78, r3h=-4.55, h1gap=3.5, h1tran=-2.95, v1gap=0.66, v1tran=3.095, h2gap=0.1, h2tran=0.865, v2gap=0.1, v2tran=2.4538, table=-0.0029, tablep=0.01167, kmotV=0, kmotI=0, tempset=-1
